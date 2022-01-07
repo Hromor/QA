@@ -1,0 +1,43 @@
+{
+	"id": "8f979880-b0cc-4089-aa2d-c351dea78ce4",
+	"name": "SCV + json",
+	"timestamp": "2021-12-16T10:48:03.437Z",
+	"collection_id": "18200289-b67d0592-9f79-4600-84a1-a1c2a352ea69",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "20eedcca-769b-4118-ba2d-f11fbe8f5701",
+			"name": "Register",
+			"time": 160,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				367,
+				102,
+				160
+			],
+			"allTests": [
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 3,
+	"totalTime": 629,
+	"collection": {
+		"requests": [
+			{
+				"id": "20eedcca-769b-4118-ba2d-f11fbe8f5701",
+				"method": "POST"
+			}
+		]
+	}
+}
